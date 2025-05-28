@@ -4,7 +4,7 @@ import json
 
 # Конфигурация
 API_URL = 'http://localhost:8000/api/register/'
-BOT_TOKEN = '7667674627:AAETZqUDM6GURXdn9basbVW07d3qL8vcBGA'
+BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
 
 # Инициализация бота
 bot = telebot.TeleBot(BOT_TOKEN)
